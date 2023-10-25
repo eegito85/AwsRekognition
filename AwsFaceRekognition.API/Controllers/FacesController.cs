@@ -22,7 +22,7 @@ namespace AwsFaceRekognition.API.Controllers
         }
 
         /// <summary>
-        /// Endpoint que compara duas faces em imagens e retorna o grau de similaridade entre elas
+        /// Endpoint que compara duas faces em imagens e retorna o grau de similaridade entre as duas
         /// </summary>
         /// <param name="faceMatchRequest">Fotos a serem comparadas</param>
         /// <returns></returns>
